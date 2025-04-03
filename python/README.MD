@@ -4,7 +4,7 @@ This repository contains my solutions to the problem sets for the CS50 Introduct
 ### About the Course
 CS50's Introduction to Programming with Python is a beginner-friendly online course designed to teach the fundamentals of programming in Python. The course explores topics such as data structures, algorithms, and object-oriented programming and each week, students complete problem sets that challenge their understanding of the material.
 ## Problem sets
-#### [Week 0 - Functions, Variables](./Week 0/)
+#### [Week 0 - Functions, Variables](./Week0/)
 #### [Week 1 - Conditionals](./Week 1)
 #### [Week 2 - Loops](./Week 2)
 #### [Week 3 - Exceptions](./Week 3)
