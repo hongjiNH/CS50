@@ -22,9 +22,9 @@ Organize your transactions by category, calculate your remaining balance, and st
 ---
 
 ## 🗂️ Project Structure
-/project-folder
-│
-├── project.py          # contains main and 3+ required functions
+/project-folder  
+│  
+│── project.py          # contains main and 3+ required functions  
 └── test_project.py     # contains pytest functions for testing
 
 ---
