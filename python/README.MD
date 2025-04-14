@@ -13,7 +13,7 @@ CS50's Introduction to Programming with Python is a beginner-friendly online cou
 #### [Week 6 - File I/O](./Week%206)
 #### [Week 7 - Regular Expressions](./Week%207)
 #### [Week 8 - Object-Oriented Programming](./Week%208)
-#### [Week 9 - Et Cetera](./Week%209) 
+#### [Week 9 - Et Cetera, final project](./Week%209) 
 
 ## Disclaimer
 Please keep in mind that using code from this repository violates academic honesty.
