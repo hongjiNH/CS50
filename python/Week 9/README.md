@@ -41,17 +41,14 @@ python project.py
 # Run tests(requires pytest)
 ```
 pytest test_project.py
-
 ```
-Info for pytest
-
-    As im not using return for my functions
-    So im using capfd.readouterr()
-    https://docs.pytest.org/en/stable/reference/reference.html#std-fixture-capfd
-    Using this to capture stdout/stderr output
-
-    out: contains everything printed to the console (stdout)
-    _: contains everything printed to stderr (which we’re ignoring here with _)
+# Info for pytest
+As im not using return for my functions  
+So im using capfd.readouterr()  
+Using this to capture stdout/stderr output  
+https://docs.pytest.org/en/stable/reference/reference.html#std-fixture-capfd  
+out: contains everything printed to the console (stdout)  
+ _: contains everything printed to stderr (which we’re ignoring here with _)  
 
 ---
 
